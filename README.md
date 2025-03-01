@@ -12,22 +12,13 @@
 
 ## Work Experience :woman_technologist:
 
-* Software Engineer at [PhonePe](https://www.phonepe.com/)
-* Former Software Engineer intern at [Red Hat](https://www.redhat.com/en)
-* Past Outreachy'20 intern with [OpenRefine](https://openrefine.org/)
-* Co-founder & Instructor at [Code for Cause](https://www.youtube.com/channel/codeforcause)
-* Ex-Teaching Assistant at [Coding Blocks](https://www.codingblocks.com)
+* Software Engineer at [NSE](https://www.nseindia.com/)
 
 ## Tools & Technologies :computer:
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
 ## To know more about me :octocat:
  :point_right:  <a href="https://darecoder.github.io">arunelavarasan.github.io</a>
