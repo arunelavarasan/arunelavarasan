@@ -6,11 +6,8 @@
 - 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
 - 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @arun.
 
-[![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social&link=https://www.twitter.com/darecoder/)](https://www.twitter.com/darecoder/)
-[![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darecoder/)](https://www.linkedin.com/in/darecoder/)
-[![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
-[![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
-[![Gmail Badge](https://img.shields.io/badge/-ektamishra1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ektamishra1999@gmail.com)](mailto:ektamishra1999@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunelavarasan/)](https://www.linkedin.com/in/arunelavarasan/)
+[![Gmail Badge](https://img.shields.io/badge/-ektamishra1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arunelavarasan168@gmail.com)](mailto:arunelavarasan168@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=darecoder" alt="darecoder"/>
 
 ## Work Experience :woman_technologist:
