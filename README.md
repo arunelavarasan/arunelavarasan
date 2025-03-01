@@ -1,12 +1,10 @@
-### Hey there, I'm Ekta. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 👩‍💼 Software Engineer @PhonePe
-- :books: Completed B.Tech in Computer Science from GGSIPU.
-- 💻 Currently working in the Offline Merchants pod at PhonePe.
-- 🔭 At Red Hat, worked on Openshift Cluster Logging.
+### Hey there, I'm Arun. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 👩‍💼 Software Engineer @NSE
+- :books: Completed B.Tech in Computer Science from Mumbai University.
+- 💻 Currently working as Java Software Developer in NSE.
+- 🔭 At NSE, worked on Trading platform.
 - 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
-- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm living cartoon, I love making others smile :)
+- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @arun.
 
 [![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social&link=https://www.twitter.com/darecoder/)](https://www.twitter.com/darecoder/)
 [![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darecoder/)](https://www.linkedin.com/in/darecoder/)
@@ -34,16 +32,5 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-## Recent technical blogs 🖋️
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@darecoder/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@darecoder/6" alt="Recent Article">
-
-## My GitHub Stats ⚡
-
-![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=darecoder&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-
-## Top Langauges 👩‍💻
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darecoder&hide=TeX&layout=compact)
- 
 ## To know more about me :octocat:
- :point_right:  <a href="https://darecoder.github.io">darecoder.github.io</a>
+ :point_right:  <a href="https://darecoder.github.io">arunelavarasan.github.io</a>
