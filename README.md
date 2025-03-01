@@ -1,76 +1,49 @@
-<!--
-**arunelavarasan/arunelavarasan** is a ‚ú® _special_ ‚ú® repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there, I'm Ekta. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- üë©‚Äçüíº Software Engineer @PhonePe
+- :books: Completed B.Tech in Computer Science from GGSIPU.
+- üíª Currently working in the Offline Merchants pod at PhonePe.
+- üî≠ At Red Hat, worked on Openshift Cluster Logging.
+- üí¨ Ask me anything related to Java, DSA or open-source, I'll try my best to help.
+- üì´ How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
+- üòÑ Pronouns: she/her/hers
+- ‚ö° Fun fact: I'm living cartoon, I love making others smile :)
 
-Here are some ideas to get you started:
+[![Twitter-Badge](https://img.shields.io/twitter/follow/darecoder?style=social&link=https://www.twitter.com/darecoder/)](https://www.twitter.com/darecoder/)
+[![Linkedin Badge](https://img.shields.io/badge/-darecoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darecoder/)](https://www.linkedin.com/in/darecoder/)
+[![Instagram Badge](https://img.shields.io/badge/-darecoder-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darecoder/)](https://instagram.com/darecoder)
+[![Medium Badge](https://img.shields.io/badge/-@darecoder-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@darecoder/)](https://medium.com/@darecoder)
+[![Gmail Badge](https://img.shields.io/badge/-ektamishra1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ektamishra1999@gmail.com)](mailto:ektamishra1999@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=darecoder" alt="darecoder"/>
 
-- Ì¥≠ I‚Äôm currently working on ...
-- Ìº± I‚Äôm currently learning ...
-- Ì±Ø I‚Äôm looking to collaborate on ...
-- Ì¥î I‚Äôm looking for help with ...
-- Ì≤¨ Ask me about ...
-- Ì≥´ How to reach me: ...
-- Ì∏Ñ Pronouns: ...
-- ‚ö° Fun fact: ...
--->
+## Work Experience :woman_technologist:
 
-<h3 align="center">Hello there, I'm Arun Ì±ã</h3>
-<h5 align="center">
-  <code>
-      <a href="https://www.linkedin.com/in/arunelavarasan/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-        </h5>
-        <br>
-        <p align="center">
-          Hi, I'm Arun Elavarasan, java developer at NSE,
-            <br>
-              <br>
-                Ì¥¨ I'm currently working as Java Software Developer in NSE.
-                  <br>
-                    Ì≤ª I'm passionate about coding
-                      <br>
-                        Ì≥ö Currently Working as Java Software developer
-                          <br>
-                            Ì≥´ You can reach me at <a href="mailto: arunelavarasan@gmail.com">arunelavarasan@gmail.com</a>
-                            </p>
+* Software Engineer at [PhonePe](https://www.phonepe.com/)
+* Former Software Engineer intern at [Red Hat](https://www.redhat.com/en)
+* Past Outreachy'20 intern with [OpenRefine](https://openrefine.org/)
+* Co-founder & Instructor at [Code for Cause](https://www.youtube.com/channel/codeforcause)
+* Ex-Teaching Assistant at [Coding Blocks](https://www.codingblocks.com)
 
-                            <hr>
+## Tools & Technologies :computer:
 
-                            <h2 align="center">Languages, Tools & Abilities</h2>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-                            <p align="center">
-                              <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-                                <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-                                  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-                                    <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-                                    </p>
+## Recent technical blogs üñãÔ∏è
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@darecoder/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@darecoder/6" alt="Recent Article">
 
-                                    <hr>
+## My GitHub Stats ‚ö°
 
-                                    <img align="right" height=350 width="auto" src="image.JPG" />
-                                    <p align=left>
-                                      <a href="https://github.com/arunelavarasan">
-                                          <img height=225 width="360em" align="center" src="https://github-readme-stats.vercel.app/api?username=ranu-agrawal&show_icons=true&theme=gotham"></a>
-                                            <a href="https://github.com/arunelavarasan">
-                                                <img height=190 width="360em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranu-agrawal&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" /> </a>
-                                                </p>
+![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=darecoder&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
-                                                <hr>
-
-                                                <h2 align="center">Repositories</h2>
-
-                                                <p width="100%" align="center">
-                                                  <a align="left" href="https://github.com/ranu-agrawal/Memories" title="Memories"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=Memories&theme=gotham"></a><a align="right" href="https://github.com/ranu-agrawal/c_codes" title="c_codes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=c_codes&theme=gotham"></a>
-                                                  </p>
-                                                  <br><br>
-                                                  <p width="100%" align="center">
-                                                    <a align="left" href="https://github.com/ranu-agrawal/basicbankingsystem" title="basicbankingsystem"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=basicbankingsystem&theme=gotham"></a><a align="right" href="https://github.com/ranu-agrawal/api-design-node-v3" title="api-design-node-v3"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=api-design-node-v3&theme=gotham"></a>
-                                                    </p>
-                                                    <br><br>
-                                                    <p width="100%" align="center">
-                                                      <a align="left" href="https://github.com/ranu-agrawal/complete-intro-to-react-v5" title="Adopt-Me"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=complete-intro-to-react-v5&theme=gotham"></a><a align="right" href="https://github.com/ranu-agrawal/ACM-ICPC-Algorithms" title="ACM-ICPC-Algorithms"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=ACM-ICPC-Algorithms&theme=gotham"></a>
-                                                      </p>
-                                                      <br><br>
-                                                      <p width="100%" align="center">
-                                                        <a align="left" href="https://github.com/ranu-agrawal/google-cloud" title="google-cloud"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=google-cloud&theme=gotham"></a><a align="right" href="https://github.com/ranu-agrawal/JavaScript30" title="JavaScript30"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ranu-agrawal&repo=JavaScript30&theme=gotham"></a>
-                                                        </p>
-                                                        <br><br>
-
+## Top Langauges üë©‚Äçüíª
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darecoder&hide=TeX&layout=compact)
+ 
+## To know more about me :octocat:
+ :point_right:  <a href="https://darecoder.github.io">darecoder.github.io</a>
