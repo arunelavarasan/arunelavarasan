@@ -22,7 +22,5 @@
 - **Version Control:** Git
 - **Tools:** Eclipse,Linux, Git/GitHub
 
----vg" alt="bootstrap" width="40" height="40"/>
-
 ## To know more about me :octocat:
  :point_right:  <a href="https://arunelavarasan.github.io">arunelavarasan.github.io</a>
