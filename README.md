@@ -4,7 +4,7 @@
 - 💻 Currently working as Java Software Developer in NSE.
 - 🔭 At NSE, worked on Trading platform.
 - 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
-- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @arun.
+- 📫 How to reach me: You can connect with me on LinkedIn, Mail by @arun.
 
 [![Linkedin Badge](https://img.shields.io/badge/-arunelavarasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunelavarasan/)](https://www.linkedin.com/in/arunelavarasan/)
 [![Gmail Badge](https://img.shields.io/badge/-arunelavarasan168@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arunelavarasan168@gmail.com)](mailto:arunelavarasan168@gmail.com)
