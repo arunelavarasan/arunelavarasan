@@ -8,7 +8,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-arunelavarasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunelavarasan/)](https://www.linkedin.com/in/arunelavarasan/)
 [![Gmail Badge](https://img.shields.io/badge/-arunelavarasan168@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arunelavarasan168@gmail.com)](mailto:arunelavarasan168@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=darecoder" alt="darecoder"/>
 
 ## Work Experience :woman_technologist:
 
